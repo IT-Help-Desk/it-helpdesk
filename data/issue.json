@@ -1,0 +1,191 @@
+{
+    "name": "Issue",
+    "level1": [
+        {
+            "name": "Inquiry/Other",
+            "level2": [
+                {
+                    "name": "IT Query/Other"
+                }
+            ]
+        },
+        {
+            "name": "Application",
+            "level2": [
+                {
+                    "name": "Other"
+                }
+            ]
+        },
+        {
+            "name": "Access/Login",
+            "level2": [
+                {
+                    "name": "Login Error or Login failure"
+                },
+                {
+                    "name": "Password reset required"
+                },
+                {
+                    "name": "Acount unlock required"
+                },
+                {
+                    "name": "Lost all or some access to an application/system"
+                },
+                {
+                    "name": "Lost access to folder/file on network"
+                },
+                {
+                    "name": "Other access/login issue"
+                }
+            ]
+        },
+        {
+            "name": "Email/Messaging",
+            "level2": [
+                {
+                    "name": "Failure - will not start up"
+                },
+                {
+                    "name": "Unable to send/recieve emails"
+                },
+                {
+                    "name": "Function not working"
+                },
+                {
+                    "name": "Other issue"
+                },
+                {
+                    "name": "Achieved Email Issue"
+                },
+                {
+                    "name": "Recover missing/deleted"
+                },
+                {
+                    "name": "Calendar issue"
+                },
+                {
+                    "name": "Issue on mobile device"
+                },
+                {
+                    "name": "Mailbox size issue"
+                },
+                {
+                    "name": "Instant Messenger"
+                }
+            ]
+        },
+        {
+            "name": "Telephone/Mobile",
+            "level2": [
+                {
+                    "name": "Handset/Desk phone"
+                },
+                {
+                    "name": "Mobile devide"
+                },
+                {
+                    "name": "Audio/Video Conferencing"
+                },
+                {
+                    "name": "VOIP"
+                },
+                {
+                    "name": "Hardware issue with existing Device"
+                }
+            ]
+        },
+        {
+            "name": "Desktop/Laptop/Hardware",
+            "level2": [
+                {
+                    "name": "Failure - will not start up"
+                },
+                {
+                    "name": "Function not working"
+                },
+                {
+                    "name": "Error message"
+                },
+                {
+                    "name": "How to/Help/Other"
+                }
+            ]
+        },
+        {
+            "name": "Printer",
+            "level2": [
+                {
+                    "name": "Faulty or require service"
+                },
+                {
+                    "name": "Cannot print/Offline/cannot connect to printer"
+                },
+                {
+                    "name": "Functionality or Scanning"
+                },
+                {
+                    "name": "How to/Help/Other"
+                }
+            ]
+        },
+        {
+            "name": "Internet/Intranet",
+            "level2": [
+                {
+                    "name": "Cannot connect to any Intranet site"
+                },
+                {
+                    "name": "Cannot connect to any Internet site"
+                },
+                {
+                    "name": "Cannot connect to specific site on Intranet/Internet"
+                },
+                {
+                    "name": "How to/Help/Other"
+                }
+            ]
+        },
+        {
+            "name": "Network Connectivity",
+            "level2": [
+                {
+                    "name": "Connection and Performance"
+                }
+            ]
+        },
+        {
+            "name": "Remote Access/VPN",
+            "level2": [
+                {
+                    "name": "Connection and Performance"
+                }
+            ]
+        },
+        {
+            "name": "Server/Mainframe",
+            "level2": [
+                {
+                    "name": "Performance or availability - low impact"
+                },
+                {
+                    "name": "Access or connectivity - low impact"
+                },
+                {
+                    "name": "Database"
+                },
+                {
+                    "name": "How to/Help/Other"
+                }
+            ]
+        },
+        {
+            "name": "Security/Virus",
+            "level2": [
+                {
+                    "name": "Virus/Firewall/Access Violation"
+                }
+            ]
+        }
+    ]
+}
